@@ -1,7 +1,5 @@
 # GameZone
 
-![GameZone Logo](./favicon.ico)
-
 ## Table of Contents
 
 - [Overview](#overview)
